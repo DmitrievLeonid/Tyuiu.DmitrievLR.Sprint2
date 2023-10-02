@@ -19,7 +19,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task0.V23.Test
 
             res = ds.GetCompareOperations(x, y);
             bool[] wait = new bool[6] { true, false, true, true, false, true };
-
+                
             CollectionAssert.AreEqual(wait, res); // типо массивы проверяет
         }
     }
