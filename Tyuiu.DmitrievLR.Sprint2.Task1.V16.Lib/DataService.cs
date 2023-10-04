@@ -26,7 +26,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task1.V16.Lib
             bool[] res = new bool[6];
 
             res[0] = (a == c + 1) | (b > d); //true
-            res[1] = (a-1 == c)&(b > d); //true
+            res[1] = (a-1 == c)&(b > d); //true 
             res[2] = (a < b)||(c > d); //true
             res[3] = (a == b)&&(c-1 >= d); //false
             res[4] = !(!res[1]); //true

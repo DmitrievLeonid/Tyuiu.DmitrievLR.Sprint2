@@ -19,7 +19,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task1.V16
 
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #2                                                              *");
-            Console.WriteLine("* Тема: Операции сравнения                                               *");
+            Console.WriteLine("* Тема: Логические операции                                              *");
             Console.WriteLine("* Задание #1                                                             *");
             Console.WriteLine("* Вариант: #16                                                           *");
             Console.WriteLine("* Выполнил: Дмитриев Леонид Романович | ИИПб-23-1                        *");
